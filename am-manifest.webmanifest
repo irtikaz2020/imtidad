@@ -1,0 +1,2 @@
+{ "name": "امتداد", "short_name": "امتداد", "lang": "ar", "dir": "rtl", "start_url": "index.html", "scope": ".", "display": "standalone", "background_color": "#f4f1ec", "theme_color": "#34302b",
+  "icons": [ { "src": "am-icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" }, { "src": "am-icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" } ] }

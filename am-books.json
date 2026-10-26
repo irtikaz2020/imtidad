@@ -1,0 +1,77 @@
+{
+ "version": 1,
+ "books": [
+  {
+   "id": "h-bce",
+   "name": "ما قبل الميلاد",
+   "enc": "history",
+   "desc": "من بداية العالم إلى سنة 1 م.",
+   "status": "planned",
+   "order": 1,
+   "file": "am-d-h-bce.json"
+  },
+  {
+   "id": "h-500",
+   "name": "من سنة 500م وما بعدها",
+   "enc": "history",
+   "desc": "العصور من سنة 500م.",
+   "status": "writing",
+   "order": 2,
+   "file": "am-d-h-500.json"
+  },
+  {
+   "id": "h-1700",
+   "name": "من سنة 1700م وما بعدها",
+   "enc": "history",
+   "desc": "العصور من سنة 1700م.",
+   "status": "writing",
+   "order": 3,
+   "file": "am-d-h-1700.json"
+  },
+  {
+   "id": "h-2000",
+   "name": "من الألفية الجديدة وما بعدها",
+   "enc": "history",
+   "desc": "من سنة 2000م إلى اليوم.",
+   "status": "writing",
+   "order": 4,
+   "file": "am-d-h-2000.json"
+  },
+  {
+   "id": "s-bce",
+   "name": "علوم ما قبل الميلاد",
+   "enc": "science",
+   "desc": "",
+   "status": "planned",
+   "order": 5,
+   "file": "am-d-s-bce.json"
+  },
+  {
+   "id": "s-500",
+   "name": "علوم من سنة 500م وما بعدها",
+   "enc": "science",
+   "desc": "",
+   "status": "writing",
+   "order": 6,
+   "file": "am-d-s-500.json"
+  },
+  {
+   "id": "s-1700",
+   "name": "علوم من سنة 1700م وما بعدها",
+   "enc": "science",
+   "desc": "",
+   "status": "writing",
+   "order": 7,
+   "file": "am-d-s-1700.json"
+  },
+  {
+   "id": "s-2000",
+   "name": "علوم الألفية الجديدة وما بعدها",
+   "enc": "science",
+   "desc": "",
+   "status": "writing",
+   "order": 8,
+   "file": "am-d-s-2000.json"
+  }
+ ]
+}
